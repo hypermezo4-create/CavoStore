@@ -1,0 +1,8 @@
+{
+  "name": "Cavo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "89176ec2"
+}
